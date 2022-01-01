@@ -37,12 +37,7 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript    2 hr 58 mins  ██████████████▓░░░░░░░░░  46.3%
-Markdown           37 mins  ███████░░░░░░░░░░░░░░░░░  14.8%
-JSON               28 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
-Smarty             21 mins  █████▒░░░░░░░░░░░░░░░░░░   8.4%
-TypeScript         17 mins  █████░░░░░░░░░░░░░░░░░░░   6.9%
-
+404: Not Found
 ```
 
 <!-- code_time ends -->
