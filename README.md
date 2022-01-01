@@ -23,7 +23,7 @@
 
 <!-- blog starts -->
 * <a href='https://www.github.com/metaczen/blog/issues/3' target='_blank'>设计模式学习-单例模式</a> - 2021-12-29
-* <a href='https://www.github.com/metaczen/blog/issues/2' target='_blank'>设计模式学习-前言</a> - 2021-12-29
+* <a href='https://www.github.com/metaczen/blog/issues/2' target='_blank'>设计模式学习-前言（译）</a> - 2021-12-29
 * <a href='https://www.github.com/metaczen/blog/issues/1' target='_blank'>前端开发工作流</a> - 2021-12-23
 <!-- blog ends -->
 
@@ -37,7 +37,12 @@
 <!-- code_time starts -->
 
 ```text
-404: Not Found
+Python       2 hrs 14 mins  ████████████████▒░░░░░░░  53.3%
+Markdown           53 mins  ████████▒░░░░░░░░░░░░░░░  21.1%
+JavaScript         14 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.8%
+YAML               13 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.5%
+JSON               12 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.0%
+Other              10 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time ends -->
