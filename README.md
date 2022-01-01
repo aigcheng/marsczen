@@ -19,7 +19,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🐳 <a href="https://github.com/metaczen/blog/issues" target="_blank">Recent Blog</a>
+#### 🧗‍♂️ <a href="https://github.com/metaczen/blog/issues" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://www.github.com/metaczen/blog/issues/3' target='_blank'>设计模式学习-单例模式</a> - 2021-12-29

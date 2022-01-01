@@ -1,18 +1,23 @@
+from bs4 import BeautifulSoup 
 from python_graphql_client import GraphqlClient
+import datetime
 import feedparser
 import httpx
 import json
 import pathlib
 import re
-import os
-import datetime
 import requests
-from bs4 import BeautifulSoup 
+import os
 
 headers = {
         'Content-Type': 'text/html;charset=UTF-8',
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
         }
+
+root = pathlib.Path(__file__).parent.resolve()
+client = GraphqlClient(endpoint="https://api.github.com/graphql")
+
+TOKEN = os.environ.get("GH_TOKEN", "")
 
 #文章列表
 article_list = []
@@ -41,13 +46,6 @@ def parse_article_list(html):
         dir['link'] = "https://www.github.com"+url.get("href")
         dir["date"] = date_content["datetime"][0:10]
         article_list.append(dir)
-
-root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
-
-
-TOKEN = os.environ.get("GH_TOKEN", "")
-
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
