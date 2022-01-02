@@ -1,7 +1,7 @@
-python-graphql-client==0.3.0
-httpx
-feedparser
-datetime
-lxml
 bs4
+datetime
+feedparser
+httpx
+lxml
+python-graphql-client==0.3.0
 requests

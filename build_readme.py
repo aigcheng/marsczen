@@ -49,9 +49,9 @@ def parse_article_list(html):
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
-    )
+            r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
+            re.DOTALL,
+            )
     if not inline:
         chunk = "\n{}\n".format(chunk)
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
@@ -89,7 +89,7 @@ query {
 }
 """.replace(
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
+        )
 
 
 def fetch_releases(oauth_token):
@@ -101,9 +101,9 @@ def fetch_releases(oauth_token):
 
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
+                query=make_query(after_cursor),
+                headers={"Authorization": "Bearer {}".format(oauth_token)},
+                )
         print()
         print(json.dumps(data, indent=4))
         print()
@@ -112,54 +112,54 @@ def fetch_releases(oauth_token):
                 repos.append(repo)
                 repo_names.add(repo["name"])
                 releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                    }
-                )
+                        {
+                            "repo": repo["name"],
+                            "repo_url": repo["url"],
+                            "description": repo["description"],
+                            "release": repo["releases"]["nodes"][0]["name"]
+                            .replace(repo["name"], "")
+                            .strip(),
+                            "published_at": repo["releases"]["nodes"][0][
+                                "publishedAt"
+                                ].split("T")[0],
+                            "url": repo["releases"]["nodes"][0]["url"],
+                            }
+                        )
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
+                "hasNextPage"
+                ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
 
 
 def fetch_code_time():
     return httpx.get(
-        "https://gist.githubusercontent.com/metaczen/0c39a3e7b4a372c6cff4a8714271308c/raw/"
-    )
+            "https://gist.githubusercontent.com/metaczen/0c39a3e7b4a372c6cff4a8714271308c/raw/"
+            )
 
 def fetch_douban():
     entries = feedparser.parse("https://www.douban.com/feed/people/yushangyuzui/interests")["entries"]
     return [
-        {
-            "title": item["title"],
-            "url": item["link"].split("#")[0],
-            "published": formatGMTime(item["published"])
-        }
-        for item in entries
-    ]
+            {
+                "title": item["title"],
+                "url": item["link"].split("#")[0],
+                "published": formatGMTime(item["published"])
+                }
+            for item in entries
+            ]
 
 
 def fetch_blog_entries():
     html = fetch_data("https://github.com/metaczen/blog/issues?page=1")
     parse_article_list(html)
     return [
-        {
-            "title": entry["text"],
-            "url": entry["link"],
-            "published": entry["date"],
-        }
-        for entry in article_list
-    ]
+            {
+                "title": entry["text"],
+                "url": entry["link"],
+                "published": entry["date"],
+                }
+            for entry in article_list
+            ]
 
 
 if __name__ == "__main__":
@@ -168,31 +168,31 @@ if __name__ == "__main__":
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
-        [
-            "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
-            for release in releases[:8]
-        ]
-    )
+            [
+                "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
+                for release in releases[:8]
+                ]
+            )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # Write out full project-releases.md file
     project_releases_md = "\n".join(
-        [
-            (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
-                "<br>{description}"
-            ).format(**release)
-            for release in releases
-        ]
-    )
+            [
+                (
+                    "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+                    "<br>{description}"
+                    ).format(**release)
+                for release in releases
+                ]
+            )
     project_releases_content = project_releases.open().read()
     project_releases_content = replace_chunk(
-        project_releases_content, "recent_releases", project_releases_md
-    )
+            project_releases_content, "recent_releases", project_releases_md
+            )
     project_releases_content = replace_chunk(
-        project_releases_content, "release_count", str(len(releases)), inline=True
-    )
+            project_releases_content, "release_count", str(len(releases)), inline=True
+            )
     project_releases.open("w").write(project_releases_content)
 
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
@@ -202,15 +202,15 @@ if __name__ == "__main__":
     doubans = fetch_douban()[:5]
 
     doubans_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-    )
+            ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
+            )
 
     rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-    )
+            ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
+            )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     readme.open("w").write(rewritten)
