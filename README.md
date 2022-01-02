@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/metaczen/metaczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/metaczen/czen-theme/releases/tag/v0.0.1' target='_blank'>czen-theme </a> - 2022-01-01
+* <a href='https://github.com/metaczen/metaczen/releases/tag/v0.0.1' target='_blank'>metaczen </a> - 2022-01-02
 * <a href='https://github.com/metaczen/create-base-app/releases/tag/v0.0.4' target='_blank'>create-base-app </a> - 2022-01-01
 * <a href='https://github.com/metaczen/waka-box/releases/tag/v3.0.1' target='_blank'>waka-box </a> - 2022-01-01
 * <a href='https://github.com/metaczen/utilmax/releases/tag/v1.0.7' target='_blank'>utilmax </a> - 2021-11-14

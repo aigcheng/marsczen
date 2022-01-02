@@ -3,7 +3,7 @@
 All <!-- release_count starts -->5<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[czen-theme](https://github.com/metaczen/czen-theme)**: [](https://github.com/metaczen/czen-theme/releases/tag/v0.0.1) - 2022-01-01
+* **[metaczen](https://github.com/metaczen/metaczen)**: [](https://github.com/metaczen/metaczen/releases/tag/v0.0.1) - 2022-01-02
 <br>None
 * **[create-base-app](https://github.com/metaczen/create-base-app)**: [](https://github.com/metaczen/create-base-app/releases/tag/v0.0.4) - 2022-01-01
 <br>🍭 quickly initialize frontend project based on the template
