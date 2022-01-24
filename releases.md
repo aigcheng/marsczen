@@ -7,7 +7,7 @@ All <!-- release_count starts -->5<!-- release_count ends --> of my released pro
 <br>🐝 utilmax is a tiny utils library for JavaScript 
 * **[metaczen](https://github.com/metaczen/metaczen)**: [](https://github.com/metaczen/metaczen/releases/tag/v0.0.1) - 2022-01-02
 <br>None
-* **[create-base-app](https://github.com/metaczen/create-base-app)**: [](https://github.com/metaczen/create-base-app/releases/tag/v0.0.4) - 2022-01-01
+* **[create-meta-app](https://github.com/metaczen/create-meta-app)**: [](https://github.com/metaczen/create-meta-app/releases/tag/v0.0.4) - 2022-01-01
 <br>🍭 quickly initialize frontend project based on the template
 * **[waka-box](https://github.com/metaczen/waka-box)**: [](https://github.com/metaczen/waka-box/releases/tag/v3.0.1) - 2022-01-01
 <br>📊 Update a pinned gist to contain your weekly WakaTime stats

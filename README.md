@@ -10,7 +10,7 @@
 <!-- recent_releases starts -->
 * <a href='https://github.com/metaczen/utilmax/releases/tag/v1.0.9' target='_blank'>utilmax </a> - 2022-01-09
 * <a href='https://github.com/metaczen/metaczen/releases/tag/v0.0.1' target='_blank'>metaczen </a> - 2022-01-02
-* <a href='https://github.com/metaczen/create-base-app/releases/tag/v0.0.4' target='_blank'>create-base-app </a> - 2022-01-01
+* <a href='https://github.com/metaczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
 * <a href='https://github.com/metaczen/waka-box/releases/tag/v3.0.1' target='_blank'>waka-box </a> - 2022-01-01
 * <a href='https://github.com/metaczen/docs-generator-cli/releases/tag/v0.1.0' target='_blank'>docs-generator-cli </a> - 2021-11-13
 <!-- recent_releases ends -->
@@ -36,12 +36,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript  47 hrs 15 mins  ███████████████████████░  82.2%
-LESS          6 hrs 3 mins  ██████░░░░░░░░░░░░░░░░░░  10.5%
-JavaScript   2 hrs 42 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.7%
-JSON               28 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%
+TypeScript  43 hrs 12 mins  ███████████████████████░  82.2%
+LESS         4 hrs 53 mins  █████▓░░░░░░░░░░░░░░░░░░   9.3%
+JavaScript   2 hrs 26 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.6%
+JSON               44 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
 HTML               23 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.7%
-Bash               12 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.4%
+Bash               19 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->
@@ -52,11 +52,11 @@ Bash               12 mins  ███▓░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1308741/' target='_blank'>看过独自等待</a> - 2022-01-23
 * <a href='http://movie.douban.com/subject/35048413/' target='_blank'>想看健听女孩</a> - 2022-01-16
 * <a href='https://book.douban.com/subject/35070618/' target='_blank'>想读深度工作：个人效能管理精进指南</a> - 2022-01-13
 * <a href='https://book.douban.com/subject/35028954/' target='_blank'>想读纵身入山海</a> - 2022-01-08
 * <a href='https://book.douban.com/subject/30364340/' target='_blank'>想读别找替罪羊</a> - 2022-01-06
-* <a href='https://www.douban.com/location/drama/35520219/' target='_blank'>想看双枰记</a> - 2022-01-06
 <!-- douban ends -->
 
 </td>
