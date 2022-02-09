@@ -52,11 +52,11 @@ YAML               11 mins  ████░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/34884712/' target='_blank'>想看不要抬头</a> - 2022-02-09
 * <a href='https://book.douban.com/subject/2235414/' target='_blank'>想读决战</a> - 2022-02-02
 * <a href='http://movie.douban.com/subject/1980790/' target='_blank'>想看决战之后</a> - 2022-02-02
 * <a href='http://movie.douban.com/subject/34849192/' target='_blank'>想看我的一生</a> - 2022-02-01
 * <a href='https://book.douban.com/subject/26905650/' target='_blank'>想读中国在梁庄</a> - 2022-01-26
-* <a href='http://movie.douban.com/subject/1308741/' target='_blank'>看过独自等待</a> - 2022-01-23
 <!-- douban ends -->
 
 </td>
