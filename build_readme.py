@@ -134,7 +134,7 @@ def fetch_releases(oauth_token):
 
 def fetch_code_time():
     return httpx.get(
-            "https://gist.githubusercontent.com/metaczen/0c39a3e7b4a372c6cff4a8714271308c/raw/"
+            "https://gist.githubusercontent.com/marsczen/0c39a3e7b4a372c6cff4a8714271308c/raw/"
             )
 
 def fetch_douban():
@@ -150,7 +150,7 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    html = fetch_data("https://github.com/metaczen/blog/issues?page=1")
+    html = fetch_data("https://github.com/marsczen/blog/issues?page=1")
     parse_article_list(html)
     return [
             {
