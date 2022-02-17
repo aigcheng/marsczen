@@ -3,7 +3,7 @@
 All <!-- release_count starts -->5<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.0.9) - 2022-01-09
+* **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.1.0) - 2022-02-16
 <br>🐝 utilmax is a tiny utils library for JavaScript 
 * **[marsczen](https://github.com/marsczen/marsczen)**: [](https://github.com/marsczen/marsczen/releases/tag/v0.0.1) - 2022-01-02
 <br>None

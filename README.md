@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/marsczen/utilmax/releases/tag/v1.0.9' target='_blank'>utilmax </a> - 2022-01-09
+* <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
 * <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
 * <a href='https://github.com/marsczen/waka-box/releases/tag/v3.0.1' target='_blank'>waka-box </a> - 2022-01-01
@@ -36,12 +36,12 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript  18 hrs 13 mins  ██████████████████░░░░░░  60.9%
-Dart         3 hrs 19 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
-JSON         3 hrs 12 mins  ██████░░░░░░░░░░░░░░░░░░  10.8%
-TypeScript    2 hrs 6 mins  █████░░░░░░░░░░░░░░░░░░░   7.0%
-Markdown      1 hr 17 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.3%
-YAML               26 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript  19 hrs 13 mins  ██████████████████░░░░░░  60.8%
+TypeScript    5 hrs 4 mins  ███████▒░░░░░░░░░░░░░░░░  16.0%
+JSON         4 hrs 42 mins  ███████░░░░░░░░░░░░░░░░░  14.9%
+Markdown           51 mins  ████░░░░░░░░░░░░░░░░░░░░   2.7%
+Python             19 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
+HTML               19 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->
