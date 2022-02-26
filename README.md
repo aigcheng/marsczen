@@ -24,7 +24,7 @@
 * <a href='https://www.github.com/marsczen/blog/issues/4' target='_blank'>Proxy Pattern 代理模式</a> - 2022-02-17
 * <a href='https://www.github.com/marsczen/blog/issues/3' target='_blank'>设计模式学习-单例模式</a> - 2021-12-29
 * <a href='https://www.github.com/marsczen/blog/issues/2' target='_blank'>设计模式学习-前言（译）</a> - 2021-12-29
-* <a href='https://www.github.com/marsczen/blog/issues/1' target='_blank'>前端开发工作流</a> - 2021-12-23
+* <a href='https://www.github.com/marsczen/blog/issues/1' target='_blank'>Full Stack Your MAC</a> - 2021-12-23
 <!-- blog ends -->
 
 </td>
@@ -37,10 +37,10 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript   8 hrs 52 mins  █████████████░░░░░░░░░░░  39.2%
-TypeScript   8 hrs 21 mins  ████████████▒░░░░░░░░░░░  36.9%
-SCSS         3 hrs 37 mins  ███████▒░░░░░░░░░░░░░░░░  16.0%
-JSON          1 hr 23 mins  █████░░░░░░░░░░░░░░░░░░░   6.2%
+JavaScript  10 hrs 47 mins  ██████████████░░░░░░░░░░  44.4%
+TypeScript    8 hrs 4 mins  ███████████▒░░░░░░░░░░░░  33.3%
+SCSS         3 hrs 41 mins  ███████░░░░░░░░░░░░░░░░░  15.2%
+JSON          1 hr 19 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.5%
 Other              22 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.6%
 CSS                 0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
@@ -53,11 +53,11 @@ CSS                 0 secs  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26946524/' target='_blank'>想看人民公仆 第一季</a> - 2022-02-25
+* <a href='http://movie.douban.com/subject/35209701/' target='_blank'>想看和平使者 第一季</a> - 2022-02-25
 * <a href='https://book.douban.com/subject/27002046/' target='_blank'>想读美丽新世界</a> - 2022-02-23
 * <a href='http://movie.douban.com/subject/4319218/' target='_blank'>想看午夜巴黎</a> - 2022-02-23
 * <a href='https://music.douban.com/subject/1395685/' target='_blank'>听过The Dark Side of the Moon</a> - 2022-02-18
-* <a href='https://book.douban.com/subject/30468597/' target='_blank'>最近在读重构（第2版）</a> - 2022-02-14
-* <a href='https://book.douban.com/subject/1023045/' target='_blank'>最近在读我们仨</a> - 2022-02-13
 <!-- douban ends -->
 
 </td>
