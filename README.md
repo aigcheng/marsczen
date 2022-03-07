@@ -53,11 +53,11 @@ dosini              4 mins  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/3101193/' target='_blank'>想读晚晴集講記</a> - 2022-03-06
 * <a href='http://movie.douban.com/subject/34858078/' target='_blank'>想看甜蜜家园</a> - 2022-03-02
 * <a href='http://movie.douban.com/subject/26946524/' target='_blank'>想看人民公仆 第一季</a> - 2022-02-25
 * <a href='http://movie.douban.com/subject/35209701/' target='_blank'>想看和平使者 第一季</a> - 2022-02-25
 * <a href='https://book.douban.com/subject/27002046/' target='_blank'>想读美丽新世界</a> - 2022-02-23
-* <a href='http://movie.douban.com/subject/4319218/' target='_blank'>想看午夜巴黎</a> - 2022-02-23
 <!-- douban ends -->
 
 </td>
