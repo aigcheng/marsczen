@@ -3,7 +3,7 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[microapp-ci](https://github.com/marsczen/microapp-ci)**: [](https://github.com/marsczen/microapp-ci/releases/tag/v0.0.2) - 2022-03-31
+* **[microapp-ci](https://github.com/marsczen/microapp-ci)**: [](https://github.com/marsczen/microapp-ci/releases/tag/v0.0.5) - 2022-04-17
 <br>Taro小程序多端开发CI脚手架 
 * **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.1.0) - 2022-02-16
 <br>🐝 utilmax is a tiny utils library for JavaScript 
