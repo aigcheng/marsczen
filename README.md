@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.0.5' target='_blank'>microapp-ci </a> - 2022-04-17
+* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.0.7' target='_blank'>microapp-ci </a> - 2022-05-04
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
 * <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
@@ -37,12 +37,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript  18 hrs 33 mins  ████████████████████▓░░░  71.3%
-JavaScript   5 hrs 17 mins  ████████▒░░░░░░░░░░░░░░░  20.3%
-JSON               52 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.3%
-SCSS               50 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.2%
-LESS               12 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%
-Bash                5 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.4%
+TypeScript  16 hrs 31 mins  ██████████████████████▓░  79.8%
+JavaScript   2 hrs 34 mins  ██████▒░░░░░░░░░░░░░░░░░  12.4%
+SCSS               37 mins  ████░░░░░░░░░░░░░░░░░░░░   3.0%
+JSON               32 mins  ████░░░░░░░░░░░░░░░░░░░░   2.6%
+LESS               12 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
+Bash                5 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
@@ -53,11 +53,11 @@ Bash                5 mins  ███▓░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/3262045/' target='_blank'>想看伞学院 第一季</a> - 2022-05-04
+* <a href='http://movie.douban.com/subject/26637615/' target='_blank'>想看猎魔人 第一季</a> - 2022-05-04
 * <a href='http://movie.douban.com/subject/35809022/' target='_blank'>想看回到太空</a> - 2022-04-19
 * <a href='http://movie.douban.com/subject/27605105/' target='_blank'>想看玉面情魔</a> - 2022-04-16
 * <a href='http://movie.douban.com/subject/34937935/' target='_blank'>想看杀马特我爱你</a> - 2022-03-27
-* <a href='http://movie.douban.com/subject/30458949/' target='_blank'>想看无依之地</a> - 2022-03-27
-* <a href='https://book.douban.com/subject/3101193/' target='_blank'>想读晚晴集講記</a> - 2022-03-06
 <!-- douban ends -->
 
 </td>
