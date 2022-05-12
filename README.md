@@ -18,7 +18,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🧗‍♂️ <a href="https://github.com/marsczen/blog/issues" target="_blank">Recent Blog</a>
+#### 🧗‍♂️ <a href="https://github.com/marsczen/blog/issues" target="_blank">Latest Blog</a>
 
 <!-- blog starts -->
 * <a href='https://www.github.com/marsczen/blog/issues/4' target='_blank'>Proxy Pattern 代理模式</a> - 2022-02-17
