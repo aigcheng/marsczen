@@ -4,7 +4,7 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 
 <!-- recent_releases starts -->
 * **[microapp-ci](https://github.com/marsczen/microapp-ci)**: [](https://github.com/marsczen/microapp-ci/releases/tag/v0.0.7) - 2022-05-04
-<br>Taro小程序多端开发CI脚手架 
+<br>Taro小程序多端开发命令行工具
 * **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.1.0) - 2022-02-16
 <br>🐝 utilmax is a tiny utils library for JavaScript 
 * **[marsczen](https://github.com/marsczen/marsczen)**: [](https://github.com/marsczen/marsczen/releases/tag/v0.0.1) - 2022-01-02
