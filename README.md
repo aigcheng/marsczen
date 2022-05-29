@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.4' target='_blank'>microapp-ci 优化preview，upload推送信息逻辑</a> - 2022-05-29
+* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.4' target='_blank'>microapp-ci </a> - 2022-05-29
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
 * <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
