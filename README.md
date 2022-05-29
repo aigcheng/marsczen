@@ -21,9 +21,6 @@
 #### 🧗‍♂️ <a href="https://github.com/marsczen/blog/issues" target="_blank">Latest Blog</a>
 
 <!-- blog starts -->
-* <a href='https://www.github.com/marsczen/blog/issues/4' target='_blank'>Proxy Pattern 代理模式</a> - 2022-02-17
-* <a href='https://www.github.com/marsczen/blog/issues/3' target='_blank'>设计模式学习-单例模式</a> - 2021-12-29
-* <a href='https://www.github.com/marsczen/blog/issues/2' target='_blank'>设计模式学习-前言（译）</a> - 2021-12-29
 * <a href='https://www.github.com/marsczen/blog/issues/1' target='_blank'>My dev workflow</a> - 2021-12-23
 <!-- blog ends -->
 
