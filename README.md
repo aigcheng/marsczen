@@ -1,5 +1,5 @@
 
-<img src="https://github.com/marsczen/marsczen/blob/master/octocat.gif" alt="hey" width="24"> Hey，我是 czen，Web 前端开发，近期在关注数据可视化的实现，WebGL，以及对Web3.0也颇感兴趣。欢迎给我[发邮件](mailto:pealstyle@gmail.com)或在 Twitter [DM](https://twitter.com/ac_czen)
+<img src="https://github.com/marsczen/marsczen/blob/master/octocat.gif" alt="hey" width="24"> Hey，我是 czen，Web 前端开发，近期在关注数据可视化的实现，e.g. WebGL、Threejs。以及对Web3.0也颇感兴趣。欢迎给我[发邮件](mailto:pealstyle@gmail.com)或在 Twitter [DM](https://twitter.com/ac_czen)
 
 <table width="800px">
 <tr>
