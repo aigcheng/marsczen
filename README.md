@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.4' target='_blank'>microapp-ci </a> - 2022-05-29
+* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.6' target='_blank'>microapp-ci </a> - 2022-05-30
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
 * <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
@@ -34,12 +34,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript  22 hrs 51 mins  ██████████████████▒░░░░░  61.9%
-JavaScript   5 hrs 35 mins  ███████░░░░░░░░░░░░░░░░░  15.2%
-SCSS          4 hrs 6 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
-JSON         2 hrs 35 mins  █████░░░░░░░░░░░░░░░░░░░   7.0%
-Markdown      1 hr 32 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.2%
-Bash               10 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.5%
+TypeScript  26 hrs 27 mins  ██████████████████▓░░░░░  62.9%
+JavaScript    5 hrs 7 mins  ██████▒░░░░░░░░░░░░░░░░░  12.2%
+SCSS         4 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░  10.6%
+JSON         3 hrs 53 mins  █████▓░░░░░░░░░░░░░░░░░░   9.3%
+Markdown      1 hr 53 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
+Bash               10 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time ends -->
