@@ -50,11 +50,11 @@ Text                0 secs  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35852631/' target='_blank'>想读上班記</a> - 2022-07-03
 * <a href='http://movie.douban.com/subject/1436674/' target='_blank'>想看悠长假期</a> - 2022-06-22
 * <a href='http://movie.douban.com/subject/26320001/' target='_blank'>想看唐顿庄园：2015圣诞特别篇</a> - 2022-06-18
 * <a href='http://movie.douban.com/subject/4920389/' target='_blank'>看过头号玩家</a> - 2022-06-18
 * <a href='http://movie.douban.com/subject/25662329/' target='_blank'>看过疯狂动物城</a> - 2022-06-18
-* <a href='http://movie.douban.com/subject/35422807/' target='_blank'>想看扬名立万</a> - 2022-06-18
 <!-- douban ends -->
 
 </td>
