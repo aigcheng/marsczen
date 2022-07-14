@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/oven-sh/bun/releases/tag/bun-v0.1.3' target='_blank'>bun v0.1.3</a> - 2022-07-11
+* <a href='https://github.com/oven-sh/bun/releases/tag/bun-v0.1.4' target='_blank'>bun Bun v0.1.4</a> - 2022-07-13
 * <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.6' target='_blank'>microapp-ci </a> - 2022-05-30
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
@@ -34,12 +34,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript  23 hrs 13 mins  ██████████████████████░░  77.3%
-SCSS         5 hrs 55 mins  ████████▒░░░░░░░░░░░░░░░  19.7%
-Other              21 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.2%
-JavaScript         17 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
+TypeScript   24 hrs 2 mins  ██████████████████████▓░  80.5%
+SCSS         4 hrs 40 mins  ███████▒░░░░░░░░░░░░░░░░  15.7%
+JavaScript         25 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
+Other              23 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.3%
 LESS               14 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%
-HTML                0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
+JSON                4 mins  ███▒░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->
