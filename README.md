@@ -8,7 +8,7 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/oven-sh/bun/releases/tag/bun-v0.1.4' target='_blank'>bun Bun v0.1.4</a> - 2022-07-13
+* <a href='https://github.com/oven-sh/bun/releases/tag/canary' target='_blank'>bun Canary</a> - 2022-07-22
 * <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.6' target='_blank'>microapp-ci </a> - 2022-05-30
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
@@ -49,11 +49,11 @@ JSON                0 secs  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1308851/' target='_blank'>想看地狱男爵</a> - 2022-07-23
 * <a href='http://movie.douban.com/subject/34951002/' target='_blank'>想看幸福到万家</a> - 2022-07-21
 * <a href='http://movie.douban.com/subject/35498561/' target='_blank'>想看大山的女儿</a> - 2022-07-21
 * <a href='http://movie.douban.com/subject/21354116/' target='_blank'>想看九回时间旅行</a> - 2022-07-20
 * <a href='https://book.douban.com/subject/35852631/' target='_blank'>想读上班記</a> - 2022-07-03
-* <a href='http://movie.douban.com/subject/1436674/' target='_blank'>想看悠长假期</a> - 2022-06-22
 <!-- douban ends -->
 
 </td>
