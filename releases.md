@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[bun](https://github.com/oven-sh/bun)**: [v0.1.5](https://github.com/oven-sh/bun/releases/tag/bun-v0.1.5) - 2022-07-23
-<br>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 * **[microapp-ci](https://github.com/marsczen/microapp-ci)**: [](https://github.com/marsczen/microapp-ci/releases/tag/v0.1.6) - 2022-05-30
 <br>Taro多端小程序CI命令行工具
 * **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.1.0) - 2022-02-16
