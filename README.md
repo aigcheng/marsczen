@@ -50,11 +50,11 @@ Markdown            4 mins  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/2028659/' target='_blank'>想看狐狸与我</a> - 2022-09-16
 * <a href='https://book.douban.com/subject/34913571/' target='_blank'>想读穿越寒冬</a> - 2022-09-14
 * <a href='http://movie.douban.com/subject/2033822/' target='_blank'>想看美食、祈祷和恋爱</a> - 2022-09-12
 * <a href='http://movie.douban.com/subject/1297769/' target='_blank'>想看马语者</a> - 2022-09-06
 * <a href='http://movie.douban.com/subject/35940430/' target='_blank'>想看Edge of the Earth</a> - 2022-08-04
-* <a href='http://movie.douban.com/subject/1308851/' target='_blank'>想看地狱男爵</a> - 2022-07-23
 <!-- douban ends -->
 
 </td>
