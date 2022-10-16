@@ -8,11 +8,11 @@
 #### 🌾 <a href="https://github.com/marsczen/marsczen/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.1.6' target='_blank'>microapp-ci </a> - 2022-05-30
-* <a href='https://github.com/marsczen/utilmax/releases/tag/v1.1.0' target='_blank'>utilmax </a> - 2022-02-16
+* <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.0.2' target='_blank'>microapp-ci </a> - 2022-03-31
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
 * <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
 * <a href='https://github.com/marsczen/waka-box/releases/tag/v3.0.1' target='_blank'>waka-box </a> - 2022-01-01
+* <a href='https://github.com/marsczen/utilmax/releases/tag/v1.0.6' target='_blank'>utilmax </a> - 2021-11-14
 <!-- recent_releases ends -->
 
 </td>
@@ -34,12 +34,12 @@
 <!-- code_time starts -->
 
 ```text
-sh          10 hrs 19 mins  ███████████████░░░░░░░░░  47.7%
-TypeScript   7 hrs 11 mins  ███████████▒░░░░░░░░░░░░  33.2%
-SCSS         2 hrs 57 mins  ██████▓░░░░░░░░░░░░░░░░░  13.7%
-JavaScript     1 hr 5 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.0%
-Other               3 mins  ███▒░░░░░░░░░░░░░░░░░░░░   0.2%
-LESS                2 mins  ███▒░░░░░░░░░░░░░░░░░░░░   0.2%
+sh          16 hrs 28 mins  ██████████████▒░░░░░░░░░  45.6%
+TypeScript   14 hrs 2 mins  ████████████▓░░░░░░░░░░░  38.9%
+SCSS         4 hrs 24 mins  ██████▒░░░░░░░░░░░░░░░░░  12.2%
+JavaScript         44 mins  ████░░░░░░░░░░░░░░░░░░░░   2.0%
+Other               9 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.4%
+HTML                6 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
@@ -50,11 +50,11 @@ LESS                2 mins  ███▒░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1759770/' target='_blank'>想看不需要爱的夏天</a> - 2022-10-15
 * <a href='http://movie.douban.com/subject/7065168/' target='_blank'>想看孤独的美食家 第一季</a> - 2022-09-30
 * <a href='http://movie.douban.com/subject/6110546/' target='_blank'>想看安娜·卡列尼娜</a> - 2022-09-23
 * <a href='http://movie.douban.com/subject/2028659/' target='_blank'>想看狐狸与我</a> - 2022-09-16
 * <a href='https://book.douban.com/subject/34913571/' target='_blank'>想读穿越寒冬</a> - 2022-09-14
-* <a href='http://movie.douban.com/subject/2033822/' target='_blank'>想看美食、祈祷和恋爱</a> - 2022-09-12
 <!-- douban ends -->
 
 </td>
