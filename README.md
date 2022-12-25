@@ -34,10 +34,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript    9 hrs 6 mins  █████████████████████▒░░  74.5%
-sh           2 hrs 32 mins  ████████▒░░░░░░░░░░░░░░░  20.8%
-JavaScript         33 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.6%
+TypeScript    9 hrs 7 mins  █████████████████████▒░░  74.4%
+sh           2 hrs 33 mins  ████████▒░░░░░░░░░░░░░░░  20.9%
+JavaScript         34 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.6%
 Other               0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.1%
+JSON                0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
+Nginx configuration file         0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
