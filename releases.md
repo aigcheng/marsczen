@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->5<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[microapp-ci](https://github.com/marsczen/microapp-ci)**: [](https://github.com/marsczen/microapp-ci/releases/tag/v0.0.2) - 2022-03-31
@@ -13,6 +13,4 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 <br>📊 Update a pinned gist to contain your weekly WakaTime stats
 * **[utilmax](https://github.com/marsczen/utilmax)**: [](https://github.com/marsczen/utilmax/releases/tag/v1.0.6) - 2021-11-14
 <br>🐝 utilmax is a tiny utils library for JavaScript 
-* **[docs-generator-cli](https://github.com/marsczen/docs-generator-cli)**: [](https://github.com/marsczen/docs-generator-cli/releases/tag/v0.0.6) - 2021-10-30
-<br>🦊  根据模板生成Markdown格式的项目文档
 <!-- recent_releases ends -->
