@@ -47,11 +47,7 @@ YAML               21 mins  ███▓░░░░░░░░░░░░░�
 #### ⛷️ <a href="https://www.douban.com/people/yushangyuzui/" target="_blank">Inspire</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35480594/' target='_blank'>想看猪猡之王</a> - 2023-02-04
-* <a href='http://movie.douban.com/subject/35141236/' target='_blank'>想看钱断情始</a> - 2023-02-02
-* <a href='http://movie.douban.com/subject/2393060/' target='_blank'>想看火线 第五季</a> - 2023-01-20
-* <a href='https://book.douban.com/subject/27007549/' target='_blank'>想读中央帝国的财政密码</a> - 2023-01-19
-* <a href='https://book.douban.com/subject/26826089/' target='_blank'>想读那些古怪又让人忧心的问题</a> - 2022-12-28
+
 <!-- douban ends -->
 
 </td>
