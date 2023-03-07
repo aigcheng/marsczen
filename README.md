@@ -1,7 +1,8 @@
 <table width="800px">
 <tr>
 <td valign="top" width="50%">
-#### ⏰  <a href="https://gist.github.com/marsczen/0c39a3e7b4a372c6cff4a8714271308c" target="_blank">Weekly Development Breakdown</a>
+
+####  ⏰  <a href="https://gist.github.com/marsczen/0c39a3e7b4a372c6cff4a8714271308c" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
