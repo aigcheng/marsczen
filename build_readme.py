@@ -19,9 +19,6 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("GH_TOKEN", "")
 
-#文章列表
-article_list = []
-
 def fetch_data(url):
     try:
         respones = requests.get(url,headers = headers)
@@ -32,21 +29,7 @@ def fetch_data(url):
     except RequestException:
         print('请求索引页错误')
         return None
-
-#URL 解析器, 获取文章列表
-def parse_article_list(html):
-    soup = BeautifulSoup(html,'lxml')
-    note_list = soup.find_all('div',class_ = 'js-navigation-container')[0]
-    content_li = note_list.find_all("div", class_ = 'Box-row')
-    for link in content_li:
-        dir = {}
-        url = link.find_all('a',class_ = 'Link--primary')[0]
-        date_content = link.find_all('relative-time')[0]
-        dir['text'] = url.text
-        dir['link'] = "https://www.github.com"+url.get("href")
-        dir["date"] = date_content["datetime"][0:10]
-        article_list.append(dir)
-
+        
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
             r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
@@ -137,31 +120,6 @@ def fetch_code_time():
             "https://gist.githubusercontent.com/marsczen/0c39a3e7b4a372c6cff4a8714271308c/raw/"
             )
 
-def fetch_douban():
-    entries = feedparser.parse("https://www.douban.com/feed/people/yushangyuzui/interests")["entries"]
-    return [
-            {
-                "title": item["title"],
-                "url": item["link"].split("#")[0],
-                "published": formatGMTime(item["published"])
-                }
-            for item in entries
-            ]
-
-
-def fetch_blog_entries():
-    html = fetch_data("https://github.com/marsczen/blog/issues?page=1")
-    parse_article_list(html)
-    return [
-            {
-                "title": entry["text"],
-                "url": entry["link"],
-                "published": entry["date"],
-                }
-            for entry in article_list
-            ]
-
-
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
@@ -198,19 +156,5 @@ if __name__ == "__main__":
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
     rewritten = replace_chunk(rewritten, "code_time", code_time_text)
-
-    doubans = fetch_douban()[:5]
-
-    doubans_md = "\n".join(
-            ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-            )
-
-    rewritten = replace_chunk(rewritten, "douban", doubans_md)
-
-    entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-            ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-            )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     readme.open("w").write(rewritten)
