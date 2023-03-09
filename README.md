@@ -7,12 +7,12 @@
 <!-- code_time starts -->
 
 ```text
-sh          17 hrs 10 mins  █████████████▓░░░░░░░░░░  42.6%
-TypeScript  16 hrs 11 mins  █████████████░░░░░░░░░░░  40.2%
-JavaScript   2 hrs 55 mins  █████▒░░░░░░░░░░░░░░░░░░   7.2%
-Other              53 mins  ████░░░░░░░░░░░░░░░░░░░░   2.2%
-LESS               51 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
-JSON               46 mins  ████░░░░░░░░░░░░░░░░░░░░   1.9%
+sh          18 hrs 28 mins  ██████████████░░░░░░░░░░  43.8%
+TypeScript  15 hrs 42 mins  ████████████▒░░░░░░░░░░░  37.3%
+JavaScript   2 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░   6.7%
+LESS          1 hr 54 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
+Other              50 mins  ████░░░░░░░░░░░░░░░░░░░░   2.0%
+JSON               47 mins  ████░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time ends -->
@@ -24,7 +24,6 @@ JSON               46 mins  ████░░░░░░░░░░░░░�
 <!-- recent_releases starts -->
 * <a href='https://github.com/marsczen/microapp-ci/releases/tag/v0.0.2' target='_blank'>microapp-ci </a> - 2022-03-31
 * <a href='https://github.com/marsczen/marsczen/releases/tag/v0.0.1' target='_blank'>marsczen </a> - 2022-01-02
-* <a href='https://github.com/marsczen/create-meta-app/releases/tag/v0.0.4' target='_blank'>create-meta-app </a> - 2022-01-01
 * <a href='https://github.com/marsczen/waka-box/releases/tag/v3.0.1' target='_blank'>waka-box </a> - 2022-01-01
 * <a href='https://github.com/marsczen/utilmax/releases/tag/v1.0.6' target='_blank'>utilmax </a> - 2021-11-14
 <!-- recent_releases ends -->
